@@ -1,12 +1,8 @@
 # AI Marketing Content Engine
 
-An internship prototype for researching a topic, generating an article
+An prototype for researching a topic, generating an article
 and social-media copy, creating an editorial image, and saving generated
 posts for later review.
-
-> **Prototype status:** This project is not production-ready. Generated
-> content must be reviewed before publishing. Research results and
-> AI-generated verification are not proof that every claim is true.
 
 ## Features
 
